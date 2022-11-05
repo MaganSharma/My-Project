@@ -1,0 +1,3 @@
+module compressor_decompressor {
+	requires java.desktop;
+}
